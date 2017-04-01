@@ -4,6 +4,7 @@
 [submodule "slobj"]
 	path = slobj
 	url = https://github.com/itkach/slobj
-[submodule "tamil-dict"]
-	path = tamil-dict
-	url = https://github.com/sivaraam/tamil-dict
+
+[submodule "aard2-android"]
+	path = aard2-android
+	url = https://github.com/sivaraam/aard2-android
