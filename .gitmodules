@@ -1,0 +1,9 @@
+[submodule "slobber"]
+	path = slobber
+	url = https://github.com/itkach/slobber
+[submodule "slobj"]
+	path = slobj
+	url = https://github.com/itkach/slobj
+[submodule "tamil-dict"]
+	path = tamil-dict
+	url = https://github.com/sivaraam/tamil-dict
