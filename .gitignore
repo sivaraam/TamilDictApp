@@ -1,1 +1,8 @@
+#Gradle files
 build/
+.gradle/
+local.properties
+
+#IDE Files
+*.iml
+.idea

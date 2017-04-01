@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="slobber.slobber-0.9">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/slobber/build/libs/slobber-0.9.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
